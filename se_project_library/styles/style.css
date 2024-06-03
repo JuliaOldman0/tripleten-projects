@@ -2,7 +2,7 @@
   min-width: 1300px;
   max-width: 1600px;
   margin: 0 auto;
-  font-family:  "Helvetica Neue", Arial, sans-serif;
+  font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   line-height: 20px;
 }
@@ -19,9 +19,20 @@
 }
 
 .header__title {
+  font-size: 66px;
+  line-height: 76px;
+  font-weight: 500;
+  color: #000000;
+  margin: 128px 0 0;
+  max-width: 601px;
 }
 
 .header__description {
+  font-size: 20px;
+  line-height: 30px;
+  color: #000000;
+  margin: 32px 0 0;
+  max-width: 532px;
 }
 
 .header__image {
